@@ -1,0 +1,9 @@
+ 1012  npx create-react-app react-amplify-app
+ 1014  cd react-amplify-app
+ 1016  git init
+ 1018  git remote add origin https://github.com/jrgdrs/react-amplify-app.git
+ 1020  git push origin master
+ 1021  git status
+ 1022  git add .
+ 1023  git commit -m 'update headline'
+ 1024  git push origin master
